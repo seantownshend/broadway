@@ -1,0 +1,43 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 14px;
+}
+
+.header {
+  background-image: url("/Users/Sean/Documents/Projects/broadway/resources/assets/the-flatiron-building.png");
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.cta {
+  color: #ffffff;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.designed {
+  background-image: url("/Users/Sean/Documents/Projects/broadway/resources/assets/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  font-size: 11px;
+  text-align: left;
+  background-color: dimgray;
+  color: #ffffff;
+}
